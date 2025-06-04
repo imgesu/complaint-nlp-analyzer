@@ -25,7 +25,7 @@ def plot_clusters(df):
     plt.title("Number of Complaints per Cluster")
     plt.xlabel("Cluster")
     plt.ylabel("Count")
-    fig_path = "/mnt/data/cluster_plot.png"
+    fig_path = "cluster_plot.png"
     plt.tight_layout()
     plt.savefig(fig_path)
     return fig_path
