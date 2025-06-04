@@ -1,0 +1,501 @@
+Complaint_ID,Date,Product,Complaint_Text,Simulated_Category
+869c6048,2024-12-26,Injection Z,"Outer carton damaged, inner contents intact.",Packaging
+9e9326ab,2024-11-16,Injection Z,Patient reported no improvement after dosage.,Efficacy
+d4644158,2025-01-13,Tablet X,Patient reported no improvement after dosage.,Efficacy
+8bcf61b8,2024-07-02,Tablet X,"Outer carton damaged, inner contents intact.",Packaging
+4acf0495,2025-03-08,Vaccine A,Label shows out-of-spec condition.,Temperature
+c707fe1b,2024-07-23,Ointment C,Dose seemed sub-potent.,Efficacy
+a3612852,2025-01-13,Vaccine A,Vaccine arrived warm to touch.,Temperature
+8d95dde4,2024-08-16,Tablet X,Unexpected allergic reaction occurred.,Adverse Reaction
+f6d6bdad,2025-04-04,Tablet X,Packaging seal broken on arrival.,Packaging
+36e7d5ca,2025-03-17,Ointment C,Product received above storage temperature range.,Temperature
+be5f875c,2025-01-13,Vaccine A,Packaging seal broken on arrival.,Packaging
+4c547ca3,2024-07-26,Vaccine A,Vaccine arrived warm to touch.,Temperature
+a5b135cf,2025-04-17,Ointment C,Missing tamper-evident seal on multiple units.,Packaging
+f33d8595,2025-05-10,Tablet X,Missing tamper-evident seal on multiple units.,Packaging
+60a32f20,2024-09-05,Injection Z,Vaccine arrived warm to touch.,Temperature
+925915d0,2025-04-15,Ointment C,Dose seemed sub-potent.,Efficacy
+483fd283,2024-11-18,Tablet X,Patient fainted shortly after use.,Adverse Reaction
+4dea14ac,2024-08-21,Ointment C,Foreign particle seen in vial.,Contamination
+23be33ae,2024-08-05,Tablet X,Swelling reported at injection site.,Adverse Reaction
+2ea0db34,2024-08-28,Ointment C,Packaging seal broken on arrival.,Packaging
+d4309fe0,2024-08-06,Injection Z,Product received above storage temperature range.,Temperature
+64434c53,2024-07-19,Injection Z,Product received above storage temperature range.,Temperature
+fb0dc29b,2025-02-19,Ointment C,Ineffective compared to prior lot.,Efficacy
+ded551d5,2025-01-25,Ointment C,Therapeutic effect not observed as expected.,Efficacy
+4996e827,2024-11-05,Vaccine A,Patient reported no improvement after dosage.,Efficacy
+b74b3c07,2025-03-29,Tablet X,Temperature logger flagged deviation.,Temperature
+46c560b2,2025-02-05,Vaccine A,Tablet shows signs of mold.,Contamination
+dbe27260,2024-06-22,Ointment C,Label shows out-of-spec condition.,Temperature
+07f85e1f,2024-12-15,Ointment C,Response time delayed significantly.,Efficacy
+6660e3a7,2025-01-11,Injection Z,Patient experienced nausea post administration.,Adverse Reaction
+2a47ad44,2024-08-31,Injection Z,Visible black speck inside ampoule.,Contamination
+b3723d83,2025-04-04,Vaccine A,Patient reported no improvement after dosage.,Efficacy
+be2eba26,2025-01-20,Vaccine A,Product received above storage temperature range.,Temperature
+04653034,2024-10-26,Vaccine A,Label shows out-of-spec condition.,Temperature
+943ffa92,2025-05-25,Ointment C,Therapeutic effect not observed as expected.,Efficacy
+2f92d310,2025-05-13,Ointment C,Vaccine arrived warm to touch.,Temperature
+b2835047,2025-03-09,Tablet X,"Liquid leaked from cap, contamination risk noted.",Packaging
+744faca1,2025-02-03,Ointment C,Rash developed after second dose.,Adverse Reaction
+130a2b96,2024-08-13,Vaccine A,Unclear sediment floating in solution.,Contamination
+d1968d09,2025-05-01,Vaccine A,Packaging seal broken on arrival.,Packaging
+a541a8f0,2024-07-12,Ointment C,Packaging seal broken on arrival.,Packaging
+adf02cd8,2024-06-08,Ointment C,"Liquid leaked from cap, contamination risk noted.",Packaging
+0a4a4c2b,2025-05-11,Tablet X,Rash developed after second dose.,Adverse Reaction
+1a72cabe,2025-04-28,Vaccine A,Unexpected allergic reaction occurred.,Adverse Reaction
+7b20b7d0,2025-03-17,Vaccine A,"Outer carton damaged, inner contents intact.",Packaging
+e0dcea42,2024-10-15,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+dfbf1da5,2025-01-20,Tablet X,Patient fainted shortly after use.,Adverse Reaction
+768f7f33,2025-05-16,Tablet X,Therapeutic effect not observed as expected.,Efficacy
+1e871bce,2025-03-08,Injection Z,Foreign particle seen in vial.,Contamination
+f45c7056,2025-06-02,Injection Z,Label shows out-of-spec condition.,Temperature
+36e3e034,2025-03-15,Ointment C,Ineffective compared to prior lot.,Efficacy
+7ffbaffa,2025-04-09,Ointment C,Missing tamper-evident seal on multiple units.,Packaging
+636b6ee5,2025-02-13,Injection Z,Tablet shows signs of mold.,Contamination
+eb933115,2025-05-07,Ointment C,Patient experienced nausea post administration.,Adverse Reaction
+10e4e735,2024-07-26,Injection Z,Vaccine arrived warm to touch.,Temperature
+fba62102,2024-07-31,Vaccine A,Cold chain break suspected during transit.,Temperature
+33188cc2,2025-02-17,Injection Z,Tablet shows signs of mold.,Contamination
+5ec5807f,2025-01-14,Tablet X,Patient fainted shortly after use.,Adverse Reaction
+8631366d,2024-12-17,Injection Z,Visible black speck inside ampoule.,Contamination
+21428cfd,2025-02-10,Tablet X,Patient fainted shortly after use.,Adverse Reaction
+6773bad0,2024-11-02,Ointment C,Packaging seal broken on arrival.,Packaging
+58589b88,2025-05-18,Vaccine A,Swelling reported at injection site.,Adverse Reaction
+0c6847ad,2025-05-28,Tablet X,Tablet shows signs of mold.,Contamination
+3b5b833c,2024-12-07,Injection Z,Cold chain break suspected during transit.,Temperature
+68d903d3,2025-04-02,Vaccine A,Therapeutic effect not observed as expected.,Efficacy
+509d7a92,2024-12-18,Vaccine A,Therapeutic effect not observed as expected.,Efficacy
+c7fc8089,2024-10-31,Vaccine A,Missing tamper-evident seal on multiple units.,Packaging
+775380bf,2025-05-17,Tablet X,Temperature logger flagged deviation.,Temperature
+c9e41371,2024-10-06,Injection Z,Temperature logger flagged deviation.,Temperature
+560c46fe,2025-03-24,Injection Z,Packaging seal broken on arrival.,Packaging
+ce6ea270,2024-07-07,Tablet X,Patient experienced nausea post administration.,Adverse Reaction
+4c82c899,2024-06-25,Injection Z,Patient reported no improvement after dosage.,Efficacy
+01c20af1,2024-08-04,Vaccine A,Ineffective compared to prior lot.,Efficacy
+e73d90f9,2025-05-11,Ointment C,Missing tamper-evident seal on multiple units.,Packaging
+82396ddc,2025-02-26,Ointment C,Temperature logger flagged deviation.,Temperature
+95e1258e,2024-10-26,Tablet X,Unexpected allergic reaction occurred.,Adverse Reaction
+f2926cbe,2025-04-26,Vaccine A,Foreign particle seen in vial.,Contamination
+931b802f,2024-08-12,Injection Z,Patient fainted shortly after use.,Adverse Reaction
+eac07b7d,2024-11-23,Injection Z,Tablet shows signs of mold.,Contamination
+25a7afdc,2024-08-11,Ointment C,Patient experienced nausea post administration.,Adverse Reaction
+1d1a0d3a,2024-08-12,Injection Z,Ineffective compared to prior lot.,Efficacy
+9980a4c9,2024-09-01,Vaccine A,Temperature logger flagged deviation.,Temperature
+2d3ab142,2024-07-22,Ointment C,Unusual odor detected from bottle.,Contamination
+fe7a1475,2025-03-30,Injection Z,Therapeutic effect not observed as expected.,Efficacy
+6efc99d0,2024-10-18,Injection Z,"Liquid leaked from cap, contamination risk noted.",Packaging
+059a4573,2024-07-19,Injection Z,Patient fainted shortly after use.,Adverse Reaction
+874c2377,2024-06-05,Tablet X,Unclear sediment floating in solution.,Contamination
+e1e5df19,2025-05-17,Injection Z,Rash developed after second dose.,Adverse Reaction
+5bdf3ecf,2024-07-07,Injection Z,Rash developed after second dose.,Adverse Reaction
+63fb9966,2024-09-15,Ointment C,Ineffective compared to prior lot.,Efficacy
+93a5e1ae,2025-04-18,Ointment C,Dose seemed sub-potent.,Efficacy
+af400fe0,2024-10-23,Tablet X,Packaging seal broken on arrival.,Packaging
+7a6b55a1,2024-09-14,Injection Z,Cold chain break suspected during transit.,Temperature
+00be4b0c,2025-01-07,Ointment C,Foreign particle seen in vial.,Contamination
+096329a4,2024-06-21,Ointment C,Rash developed after second dose.,Adverse Reaction
+8372f28f,2025-04-21,Injection Z,Patient experienced nausea post administration.,Adverse Reaction
+c4627eaa,2025-01-28,Vaccine A,Packaging seal broken on arrival.,Packaging
+7d114829,2025-04-24,Vaccine A,Label shows out-of-spec condition.,Temperature
+d8d221f1,2024-08-03,Tablet X,Dose seemed sub-potent.,Efficacy
+105f7f44,2025-02-12,Injection Z,Packaging seal broken on arrival.,Packaging
+ad1a6d3f,2025-03-17,Ointment C,Vaccine arrived warm to touch.,Temperature
+874ff383,2024-12-25,Ointment C,Dose seemed sub-potent.,Efficacy
+84b05db7,2024-12-03,Injection Z,Therapeutic effect not observed as expected.,Efficacy
+4679143c,2024-10-29,Vaccine A,Visible black speck inside ampoule.,Contamination
+6adf9f5d,2024-09-13,Vaccine A,Patient experienced nausea post administration.,Adverse Reaction
+8a346fff,2024-08-04,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+b4f42551,2025-04-06,Injection Z,"Liquid leaked from cap, contamination risk noted.",Packaging
+a013390d,2025-03-20,Tablet X,Missing tamper-evident seal on multiple units.,Packaging
+28de5117,2025-03-23,Ointment C,Tablet shows signs of mold.,Contamination
+a67c9df6,2024-09-22,Tablet X,Unusual odor detected from bottle.,Contamination
+619e8307,2025-02-16,Injection Z,Vaccine arrived warm to touch.,Temperature
+920873fd,2025-05-22,Tablet X,Product received above storage temperature range.,Temperature
+34921f6b,2025-04-25,Vaccine A,Foreign particle seen in vial.,Contamination
+0ae2941c,2024-11-09,Ointment C,Tablet shows signs of mold.,Contamination
+8b34f8b6,2024-09-20,Injection Z,Dose seemed sub-potent.,Efficacy
+b8812867,2024-11-18,Injection Z,Missing tamper-evident seal on multiple units.,Packaging
+75e3fc3a,2025-05-16,Injection Z,Temperature logger flagged deviation.,Temperature
+bf4f24bb,2024-11-18,Tablet X,"Liquid leaked from cap, contamination risk noted.",Packaging
+70c9ddc7,2024-09-25,Tablet X,Tablet shows signs of mold.,Contamination
+b29f4ffd,2024-10-14,Injection Z,"Vial cracked upon opening, leakage observed.",Packaging
+8f6387e6,2024-09-17,Injection Z,Temperature logger flagged deviation.,Temperature
+18d4c17e,2025-03-31,Vaccine A,"Vial cracked upon opening, leakage observed.",Packaging
+a21f051d,2024-09-04,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+61b89a13,2024-09-14,Injection Z,Dose seemed sub-potent.,Efficacy
+92a7fbd5,2024-11-04,Vaccine A,Tablet shows signs of mold.,Contamination
+72bb1e9e,2024-11-21,Vaccine A,Patient fainted shortly after use.,Adverse Reaction
+4ff3b356,2024-11-08,Tablet X,Tablet shows signs of mold.,Contamination
+6f534752,2024-11-30,Vaccine A,Unexpected allergic reaction occurred.,Adverse Reaction
+a1e2ea46,2024-09-19,Vaccine A,Unclear sediment floating in solution.,Contamination
+8f330308,2024-10-02,Tablet X,Product received above storage temperature range.,Temperature
+1d68dd38,2025-04-14,Injection Z,Missing tamper-evident seal on multiple units.,Packaging
+a1dfd437,2025-02-08,Injection Z,Ineffective compared to prior lot.,Efficacy
+d8e601a0,2025-04-17,Ointment C,"Liquid leaked from cap, contamination risk noted.",Packaging
+25dcd036,2024-06-25,Tablet X,Missing tamper-evident seal on multiple units.,Packaging
+023237d2,2025-05-09,Injection Z,Dose seemed sub-potent.,Efficacy
+63414bbb,2025-02-24,Injection Z,Tablet shows signs of mold.,Contamination
+bd993eba,2024-09-27,Ointment C,Product received above storage temperature range.,Temperature
+013636d2,2024-10-25,Tablet X,Patient fainted shortly after use.,Adverse Reaction
+3089b36c,2024-12-20,Tablet X,Unexpected allergic reaction occurred.,Adverse Reaction
+2009e1bd,2025-05-12,Tablet X,Dose seemed sub-potent.,Efficacy
+07f9d61f,2024-07-11,Injection Z,Unclear sediment floating in solution.,Contamination
+e4619fee,2024-08-14,Vaccine A,Packaging seal broken on arrival.,Packaging
+cd9c2c89,2024-09-17,Ointment C,Foreign particle seen in vial.,Contamination
+6180b7fa,2025-02-03,Tablet X,Response time delayed significantly.,Efficacy
+901e380f,2025-02-26,Vaccine A,Unexpected allergic reaction occurred.,Adverse Reaction
+326637f7,2024-12-18,Vaccine A,Product received above storage temperature range.,Temperature
+4bc5bbb3,2025-02-15,Injection Z,"Outer carton damaged, inner contents intact.",Packaging
+6d81d044,2024-12-27,Injection Z,"Vial cracked upon opening, leakage observed.",Packaging
+c93ae772,2025-05-10,Injection Z,Patient experienced nausea post administration.,Adverse Reaction
+e8de6dc9,2025-01-30,Ointment C,Tablet shows signs of mold.,Contamination
+28561d41,2024-07-30,Vaccine A,Ineffective compared to prior lot.,Efficacy
+533c59ae,2024-12-08,Injection Z,Tablet shows signs of mold.,Contamination
+4bddd0f5,2024-09-10,Vaccine A,Therapeutic effect not observed as expected.,Efficacy
+7b74f540,2024-07-05,Vaccine A,Tablet shows signs of mold.,Contamination
+46a4e84e,2024-11-01,Tablet X,Temperature logger flagged deviation.,Temperature
+c55e7ad3,2025-05-16,Vaccine A,Dose seemed sub-potent.,Efficacy
+65bd435d,2024-11-17,Injection Z,Unclear sediment floating in solution.,Contamination
+879560ba,2025-04-25,Tablet X,Therapeutic effect not observed as expected.,Efficacy
+a6a74406,2025-03-23,Injection Z,Patient fainted shortly after use.,Adverse Reaction
+b5b140af,2025-05-08,Injection Z,Unclear sediment floating in solution.,Contamination
+0340b5a1,2025-04-28,Injection Z,Label shows out-of-spec condition.,Temperature
+aa5100a5,2025-05-02,Ointment C,Foreign particle seen in vial.,Contamination
+3a64f942,2024-07-28,Vaccine A,Label shows out-of-spec condition.,Temperature
+815ee828,2024-12-22,Vaccine A,Packaging seal broken on arrival.,Packaging
+3c7b01ed,2025-02-26,Ointment C,Unusual odor detected from bottle.,Contamination
+b953d317,2024-07-26,Vaccine A,Response time delayed significantly.,Efficacy
+0c26b8f9,2025-03-14,Injection Z,Product received above storage temperature range.,Temperature
+13e79f7e,2025-02-09,Injection Z,Tablet shows signs of mold.,Contamination
+c03a8d10,2025-01-18,Ointment C,Unclear sediment floating in solution.,Contamination
+db04f1ed,2025-05-18,Ointment C,"Vial cracked upon opening, leakage observed.",Packaging
+187a6780,2024-06-28,Injection Z,Temperature logger flagged deviation.,Temperature
+9266563b,2024-12-03,Injection Z,Packaging seal broken on arrival.,Packaging
+a9fc22e7,2025-05-08,Ointment C,Unclear sediment floating in solution.,Contamination
+2f4e3eac,2025-04-18,Vaccine A,"Liquid leaked from cap, contamination risk noted.",Packaging
+71b18336,2024-07-18,Vaccine A,Vaccine arrived warm to touch.,Temperature
+b3a46855,2024-11-18,Ointment C,Patient fainted shortly after use.,Adverse Reaction
+15db729a,2025-03-08,Tablet X,Unclear sediment floating in solution.,Contamination
+71ccc010,2025-05-20,Tablet X,Patient fainted shortly after use.,Adverse Reaction
+3175a55b,2024-06-30,Ointment C,Response time delayed significantly.,Efficacy
+ed461f20,2024-11-09,Tablet X,Label shows out-of-spec condition.,Temperature
+ecb79b37,2024-08-06,Tablet X,Unusual odor detected from bottle.,Contamination
+8ccdf492,2025-01-21,Ointment C,Patient reported no improvement after dosage.,Efficacy
+b4fb67a8,2024-10-20,Vaccine A,Packaging seal broken on arrival.,Packaging
+80887dfd,2024-07-01,Injection Z,Dose seemed sub-potent.,Efficacy
+0078e702,2024-11-19,Tablet X,Swelling reported at injection site.,Adverse Reaction
+62a1331d,2025-05-23,Ointment C,"Liquid leaked from cap, contamination risk noted.",Packaging
+6079e52e,2024-09-21,Injection Z,"Outer carton damaged, inner contents intact.",Packaging
+71c203df,2025-02-15,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+98db1461,2025-04-04,Tablet X,Unclear sediment floating in solution.,Contamination
+a5c699f1,2024-10-24,Vaccine A,Swelling reported at injection site.,Adverse Reaction
+b28e6216,2024-10-12,Tablet X,Response time delayed significantly.,Efficacy
+7ba85ade,2025-02-20,Ointment C,"Outer carton damaged, inner contents intact.",Packaging
+8c418253,2024-09-09,Ointment C,Cold chain break suspected during transit.,Temperature
+68ba94c6,2025-04-21,Injection Z,Tablet shows signs of mold.,Contamination
+8045bdf4,2025-04-13,Ointment C,"Vial cracked upon opening, leakage observed.",Packaging
+61e2fa69,2024-10-24,Tablet X,Unusual odor detected from bottle.,Contamination
+9181a11d,2025-05-06,Ointment C,Patient reported no improvement after dosage.,Efficacy
+76aa44bf,2025-03-28,Vaccine A,"Vial cracked upon opening, leakage observed.",Packaging
+2b039929,2024-10-22,Ointment C,Unusual odor detected from bottle.,Contamination
+9dcfd7ec,2025-01-03,Tablet X,Patient fainted shortly after use.,Adverse Reaction
+8d966205,2024-10-09,Ointment C,Cold chain break suspected during transit.,Temperature
+fc0cacc1,2024-10-29,Tablet X,Rash developed after second dose.,Adverse Reaction
+5f58118b,2024-09-18,Ointment C,Therapeutic effect not observed as expected.,Efficacy
+0c2f7af8,2025-01-17,Injection Z,Visible black speck inside ampoule.,Contamination
+5b386b7b,2025-01-30,Ointment C,Label shows out-of-spec condition.,Temperature
+9e3f067e,2024-10-20,Vaccine A,Product received above storage temperature range.,Temperature
+39e60b65,2024-09-09,Vaccine A,Missing tamper-evident seal on multiple units.,Packaging
+8ff47084,2024-09-27,Vaccine A,"Vial cracked upon opening, leakage observed.",Packaging
+958a44bb,2024-08-11,Ointment C,Label shows out-of-spec condition.,Temperature
+5165e08e,2024-10-10,Tablet X,Unexpected allergic reaction occurred.,Adverse Reaction
+c74fc5d4,2024-06-23,Tablet X,Dose seemed sub-potent.,Efficacy
+62ab4d38,2024-06-20,Injection Z,Foreign particle seen in vial.,Contamination
+92ac9f9a,2025-02-17,Tablet X,Tablet shows signs of mold.,Contamination
+43edece2,2024-09-08,Ointment C,Ineffective compared to prior lot.,Efficacy
+1732008c,2024-08-12,Vaccine A,Rash developed after second dose.,Adverse Reaction
+7635003f,2024-08-08,Ointment C,Product received above storage temperature range.,Temperature
+2fc2d591,2024-12-28,Ointment C,Swelling reported at injection site.,Adverse Reaction
+c037f5a6,2025-02-12,Ointment C,Patient experienced nausea post administration.,Adverse Reaction
+2a4f0d79,2024-12-17,Tablet X,Visible black speck inside ampoule.,Contamination
+32ddb2ec,2024-06-11,Injection Z,Packaging seal broken on arrival.,Packaging
+665c3a55,2025-02-14,Tablet X,Product received above storage temperature range.,Temperature
+8d3790e2,2024-11-18,Injection Z,Swelling reported at injection site.,Adverse Reaction
+b48c104e,2024-10-19,Tablet X,Vaccine arrived warm to touch.,Temperature
+33bb6501,2025-01-20,Vaccine A,Foreign particle seen in vial.,Contamination
+6efa1949,2025-03-21,Vaccine A,"Outer carton damaged, inner contents intact.",Packaging
+0a01d768,2025-03-22,Ointment C,Rash developed after second dose.,Adverse Reaction
+0f6ca8d3,2025-04-22,Injection Z,Patient fainted shortly after use.,Adverse Reaction
+5dad0a4b,2024-07-20,Injection Z,Patient fainted shortly after use.,Adverse Reaction
+ad737e32,2025-05-01,Vaccine A,Temperature logger flagged deviation.,Temperature
+40d214b6,2024-10-19,Vaccine A,Vaccine arrived warm to touch.,Temperature
+b2cd49a5,2025-03-06,Ointment C,Vaccine arrived warm to touch.,Temperature
+5585e51d,2024-08-05,Vaccine A,Patient fainted shortly after use.,Adverse Reaction
+3958ae6e,2024-06-24,Vaccine A,Therapeutic effect not observed as expected.,Efficacy
+1839d417,2025-04-01,Vaccine A,"Vial cracked upon opening, leakage observed.",Packaging
+085ae4b4,2024-10-07,Tablet X,Unexpected allergic reaction occurred.,Adverse Reaction
+88fcea90,2024-08-21,Ointment C,Temperature logger flagged deviation.,Temperature
+6c0d266a,2025-04-09,Injection Z,Foreign particle seen in vial.,Contamination
+aaf25c0f,2025-05-05,Ointment C,Patient fainted shortly after use.,Adverse Reaction
+a334bbc6,2024-12-21,Injection Z,Unusual odor detected from bottle.,Contamination
+93f05d7a,2024-08-23,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+42f1bea3,2025-03-31,Injection Z,Dose seemed sub-potent.,Efficacy
+bb6cca5d,2025-04-04,Tablet X,"Liquid leaked from cap, contamination risk noted.",Packaging
+5fd6495b,2024-07-16,Ointment C,Missing tamper-evident seal on multiple units.,Packaging
+f306f1e3,2025-02-05,Ointment C,Temperature logger flagged deviation.,Temperature
+fd298808,2025-04-05,Vaccine A,Product received above storage temperature range.,Temperature
+93456cbc,2024-06-17,Tablet X,Therapeutic effect not observed as expected.,Efficacy
+34fb6484,2025-04-10,Vaccine A,Swelling reported at injection site.,Adverse Reaction
+4769404d,2025-03-06,Vaccine A,Unclear sediment floating in solution.,Contamination
+977ecdef,2025-03-16,Injection Z,"Vial cracked upon opening, leakage observed.",Packaging
+dbfb08f0,2024-11-16,Injection Z,Patient fainted shortly after use.,Adverse Reaction
+8a2aa87f,2024-11-28,Vaccine A,Label shows out-of-spec condition.,Temperature
+d6b9a609,2025-03-31,Vaccine A,Missing tamper-evident seal on multiple units.,Packaging
+af0eb84b,2025-01-06,Tablet X,"Vial cracked upon opening, leakage observed.",Packaging
+1666e313,2024-11-03,Ointment C,Ineffective compared to prior lot.,Efficacy
+8d99a0f2,2024-10-27,Injection Z,Unusual odor detected from bottle.,Contamination
+192793d8,2024-09-25,Tablet X,Packaging seal broken on arrival.,Packaging
+d4991f8e,2024-07-07,Injection Z,Vaccine arrived warm to touch.,Temperature
+027c6c79,2025-02-03,Ointment C,"Outer carton damaged, inner contents intact.",Packaging
+f50a9cfc,2025-05-28,Ointment C,Rash developed after second dose.,Adverse Reaction
+e3768e37,2024-07-26,Tablet X,Patient experienced nausea post administration.,Adverse Reaction
+fd166635,2025-04-25,Tablet X,Temperature logger flagged deviation.,Temperature
+2b45a89e,2024-08-29,Injection Z,Therapeutic effect not observed as expected.,Efficacy
+ddeed9a3,2024-06-13,Injection Z,Ineffective compared to prior lot.,Efficacy
+fb686fca,2024-08-15,Vaccine A,Label shows out-of-spec condition.,Temperature
+32d2f623,2025-03-26,Tablet X,Temperature logger flagged deviation.,Temperature
+93496c20,2024-10-19,Injection Z,Unusual odor detected from bottle.,Contamination
+c4bd19c2,2024-06-09,Ointment C,Unusual odor detected from bottle.,Contamination
+723b6130,2024-10-31,Tablet X,Packaging seal broken on arrival.,Packaging
+57a065f5,2025-06-03,Tablet X,Foreign particle seen in vial.,Contamination
+bdb706f3,2025-05-03,Injection Z,Tablet shows signs of mold.,Contamination
+e1bcc6d3,2024-11-11,Vaccine A,Ineffective compared to prior lot.,Efficacy
+b1c041e1,2025-03-13,Tablet X,"Vial cracked upon opening, leakage observed.",Packaging
+c94498d0,2025-01-20,Tablet X,Patient experienced nausea post administration.,Adverse Reaction
+e4e92295,2025-04-25,Ointment C,Label shows out-of-spec condition.,Temperature
+90881070,2024-07-08,Vaccine A,Unclear sediment floating in solution.,Contamination
+67eb8040,2024-11-05,Vaccine A,Vaccine arrived warm to touch.,Temperature
+29eac0d4,2025-04-17,Vaccine A,Visible black speck inside ampoule.,Contamination
+6402b87f,2025-01-19,Injection Z,Unclear sediment floating in solution.,Contamination
+b8e5b413,2025-06-03,Injection Z,"Liquid leaked from cap, contamination risk noted.",Packaging
+442356d5,2025-04-13,Injection Z,Tablet shows signs of mold.,Contamination
+41e3ac10,2024-10-26,Vaccine A,Therapeutic effect not observed as expected.,Efficacy
+6c318a05,2025-04-24,Vaccine A,Unclear sediment floating in solution.,Contamination
+6fb6cf27,2024-11-14,Ointment C,Rash developed after second dose.,Adverse Reaction
+bf225c53,2024-11-18,Vaccine A,Response time delayed significantly.,Efficacy
+50b3cc8e,2024-09-06,Vaccine A,Label shows out-of-spec condition.,Temperature
+b1bfb109,2025-01-02,Ointment C,Tablet shows signs of mold.,Contamination
+a3cd40d4,2025-01-12,Ointment C,Patient experienced nausea post administration.,Adverse Reaction
+50a79d47,2024-09-20,Vaccine A,Unclear sediment floating in solution.,Contamination
+cd9092ff,2025-03-05,Ointment C,Unclear sediment floating in solution.,Contamination
+691300eb,2024-12-23,Tablet X,Response time delayed significantly.,Efficacy
+7b22a5dd,2024-09-24,Ointment C,Response time delayed significantly.,Efficacy
+a67afeac,2024-10-19,Injection Z,"Liquid leaked from cap, contamination risk noted.",Packaging
+68a99f5b,2024-08-12,Injection Z,Patient experienced nausea post administration.,Adverse Reaction
+dfb3467e,2025-04-29,Ointment C,Response time delayed significantly.,Efficacy
+017c518f,2025-04-30,Tablet X,Temperature logger flagged deviation.,Temperature
+c3f56174,2024-08-22,Injection Z,Dose seemed sub-potent.,Efficacy
+e9b23990,2025-05-26,Ointment C,Label shows out-of-spec condition.,Temperature
+bf33062d,2024-12-06,Injection Z,Therapeutic effect not observed as expected.,Efficacy
+8cd4df57,2025-01-25,Injection Z,Packaging seal broken on arrival.,Packaging
+32c5261a,2024-12-27,Ointment C,Foreign particle seen in vial.,Contamination
+17d4d40b,2025-04-30,Ointment C,Cold chain break suspected during transit.,Temperature
+3141558d,2025-05-26,Vaccine A,Product received above storage temperature range.,Temperature
+f6242179,2025-02-02,Ointment C,Visible black speck inside ampoule.,Contamination
+31f9f830,2025-05-26,Tablet X,Label shows out-of-spec condition.,Temperature
+8c054d32,2024-11-09,Tablet X,Therapeutic effect not observed as expected.,Efficacy
+0a7863d6,2024-11-06,Tablet X,Dose seemed sub-potent.,Efficacy
+14801f7b,2024-09-09,Vaccine A,"Vial cracked upon opening, leakage observed.",Packaging
+dd978a88,2024-12-20,Ointment C,Patient reported no improvement after dosage.,Efficacy
+5946c0d0,2025-04-16,Ointment C,Product received above storage temperature range.,Temperature
+ad067f9a,2025-05-12,Tablet X,Foreign particle seen in vial.,Contamination
+32bc0568,2025-03-05,Ointment C,"Outer carton damaged, inner contents intact.",Packaging
+612cb8a2,2025-03-19,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+3feae153,2024-12-30,Injection Z,Packaging seal broken on arrival.,Packaging
+6a97a974,2025-01-09,Vaccine A,Therapeutic effect not observed as expected.,Efficacy
+7427827d,2024-10-15,Tablet X,Patient fainted shortly after use.,Adverse Reaction
+0410085d,2025-02-11,Ointment C,"Outer carton damaged, inner contents intact.",Packaging
+1ef2d198,2024-07-14,Vaccine A,Dose seemed sub-potent.,Efficacy
+67cb7069,2024-11-08,Vaccine A,Label shows out-of-spec condition.,Temperature
+091e0889,2024-11-23,Tablet X,Cold chain break suspected during transit.,Temperature
+0fb9e6ee,2024-12-28,Tablet X,Unexpected allergic reaction occurred.,Adverse Reaction
+4d96a12d,2025-04-21,Ointment C,Unclear sediment floating in solution.,Contamination
+0cfc8f83,2025-04-12,Tablet X,Visible black speck inside ampoule.,Contamination
+65e3521e,2024-06-11,Tablet X,Packaging seal broken on arrival.,Packaging
+956feb68,2024-08-25,Ointment C,"Outer carton damaged, inner contents intact.",Packaging
+5ef3604f,2024-09-06,Tablet X,"Outer carton damaged, inner contents intact.",Packaging
+f2d3f4a4,2024-12-26,Injection Z,Temperature logger flagged deviation.,Temperature
+e4e5d2ba,2025-02-25,Tablet X,Packaging seal broken on arrival.,Packaging
+4c76eec0,2024-09-21,Tablet X,"Outer carton damaged, inner contents intact.",Packaging
+7d945d52,2025-04-04,Tablet X,Patient reported no improvement after dosage.,Efficacy
+4a4061fc,2025-01-29,Vaccine A,Missing tamper-evident seal on multiple units.,Packaging
+7fe1a6aa,2024-12-06,Vaccine A,Foreign particle seen in vial.,Contamination
+7bd4720f,2024-07-15,Injection Z,Label shows out-of-spec condition.,Temperature
+47fbbe34,2024-10-11,Ointment C,Unclear sediment floating in solution.,Contamination
+71da046f,2025-02-11,Tablet X,Packaging seal broken on arrival.,Packaging
+6b531666,2025-02-03,Tablet X,Unclear sediment floating in solution.,Contamination
+42d10e73,2024-12-10,Injection Z,Label shows out-of-spec condition.,Temperature
+59295a93,2024-07-31,Ointment C,Ineffective compared to prior lot.,Efficacy
+3200c238,2024-07-12,Injection Z,Missing tamper-evident seal on multiple units.,Packaging
+97087906,2025-02-03,Tablet X,Product received above storage temperature range.,Temperature
+6ceb146e,2024-09-30,Vaccine A,Tablet shows signs of mold.,Contamination
+1cf50fb9,2025-03-22,Vaccine A,Temperature logger flagged deviation.,Temperature
+084df5bc,2024-11-17,Ointment C,Therapeutic effect not observed as expected.,Efficacy
+af28a99c,2025-06-03,Tablet X,Patient reported no improvement after dosage.,Efficacy
+2d81b058,2024-12-05,Tablet X,Patient fainted shortly after use.,Adverse Reaction
+63df7d72,2025-03-24,Tablet X,Tablet shows signs of mold.,Contamination
+5def5119,2024-10-29,Ointment C,Vaccine arrived warm to touch.,Temperature
+2cfefbba,2024-08-10,Tablet X,Vaccine arrived warm to touch.,Temperature
+24a4199e,2025-02-20,Vaccine A,"Vial cracked upon opening, leakage observed.",Packaging
+41363f4f,2025-05-14,Injection Z,"Vial cracked upon opening, leakage observed.",Packaging
+13b73579,2024-08-24,Vaccine A,Rash developed after second dose.,Adverse Reaction
+f1e88baa,2024-07-22,Ointment C,Unusual odor detected from bottle.,Contamination
+fa018c95,2024-07-21,Tablet X,Patient experienced nausea post administration.,Adverse Reaction
+3cef76e2,2025-03-10,Injection Z,Label shows out-of-spec condition.,Temperature
+9e4a8f7a,2024-07-16,Tablet X,Unclear sediment floating in solution.,Contamination
+1e552977,2024-11-11,Vaccine A,"Liquid leaked from cap, contamination risk noted.",Packaging
+64960c94,2025-04-21,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+b6bf1c3e,2025-05-04,Ointment C,Tablet shows signs of mold.,Contamination
+956ef7c4,2024-12-07,Vaccine A,Cold chain break suspected during transit.,Temperature
+8695eb03,2025-05-07,Ointment C,Unexpected allergic reaction occurred.,Adverse Reaction
+f3bbdfda,2024-12-05,Injection Z,Patient experienced nausea post administration.,Adverse Reaction
+d34c8422,2024-10-19,Injection Z,Dose seemed sub-potent.,Efficacy
+c25e849d,2024-10-01,Injection Z,Label shows out-of-spec condition.,Temperature
+af3adefc,2024-12-19,Ointment C,Tablet shows signs of mold.,Contamination
+e28093ae,2025-05-28,Vaccine A,"Liquid leaked from cap, contamination risk noted.",Packaging
+19489386,2024-12-22,Vaccine A,Response time delayed significantly.,Efficacy
+2ce98000,2024-12-19,Tablet X,Temperature logger flagged deviation.,Temperature
+209004f5,2024-08-31,Tablet X,Patient experienced nausea post administration.,Adverse Reaction
+a35d6770,2024-12-14,Injection Z,Foreign particle seen in vial.,Contamination
+d573eb5f,2024-12-22,Ointment C,"Liquid leaked from cap, contamination risk noted.",Packaging
+113a3de1,2024-07-26,Ointment C,Unclear sediment floating in solution.,Contamination
+18afcac7,2025-01-25,Vaccine A,Temperature logger flagged deviation.,Temperature
+f62e7b6a,2024-10-17,Ointment C,Rash developed after second dose.,Adverse Reaction
+43122f5e,2025-04-02,Injection Z,Missing tamper-evident seal on multiple units.,Packaging
+dfc1435b,2025-04-29,Injection Z,Unclear sediment floating in solution.,Contamination
+60b984ec,2024-12-10,Injection Z,Unclear sediment floating in solution.,Contamination
+f44b93cd,2025-02-05,Tablet X,Therapeutic effect not observed as expected.,Efficacy
+176da06e,2025-04-16,Ointment C,Cold chain break suspected during transit.,Temperature
+9e91e63a,2024-06-07,Tablet X,Patient experienced nausea post administration.,Adverse Reaction
+1296afa3,2024-12-31,Injection Z,Cold chain break suspected during transit.,Temperature
+3b8707d7,2024-12-23,Tablet X,Visible black speck inside ampoule.,Contamination
+0f62094b,2024-07-12,Tablet X,Missing tamper-evident seal on multiple units.,Packaging
+9b2b5b5a,2024-06-11,Ointment C,Unclear sediment floating in solution.,Contamination
+1b80a4cb,2024-08-30,Injection Z,Patient reported no improvement after dosage.,Efficacy
+d1033053,2024-06-15,Injection Z,Visible black speck inside ampoule.,Contamination
+fc66e87d,2024-07-19,Injection Z,Swelling reported at injection site.,Adverse Reaction
+ac63f768,2024-07-27,Tablet X,Unexpected allergic reaction occurred.,Adverse Reaction
+057a316f,2025-02-02,Ointment C,Rash developed after second dose.,Adverse Reaction
+4a853110,2024-07-17,Tablet X,Unusual odor detected from bottle.,Contamination
+978cbd24,2024-12-01,Injection Z,Product received above storage temperature range.,Temperature
+2c542fa6,2025-05-15,Tablet X,Dose seemed sub-potent.,Efficacy
+e99495e7,2025-01-26,Vaccine A,"Liquid leaked from cap, contamination risk noted.",Packaging
+f60814bd,2024-06-18,Injection Z,Dose seemed sub-potent.,Efficacy
+862b30e8,2024-06-30,Injection Z,Patient experienced nausea post administration.,Adverse Reaction
+d118f997,2024-06-22,Tablet X,Packaging seal broken on arrival.,Packaging
+02421510,2024-11-13,Injection Z,Packaging seal broken on arrival.,Packaging
+ae7fbaaa,2024-11-22,Tablet X,Tablet shows signs of mold.,Contamination
+023fd018,2024-06-20,Injection Z,Unclear sediment floating in solution.,Contamination
+aa3b44ec,2024-09-02,Vaccine A,Temperature logger flagged deviation.,Temperature
+a6d74f6a,2025-04-06,Vaccine A,Ineffective compared to prior lot.,Efficacy
+0e9200f1,2025-01-30,Ointment C,"Liquid leaked from cap, contamination risk noted.",Packaging
+13d3007a,2024-11-05,Injection Z,Foreign particle seen in vial.,Contamination
+59ea65c2,2025-01-01,Tablet X,Patient reported no improvement after dosage.,Efficacy
+5782c4cc,2025-03-22,Ointment C,Patient reported no improvement after dosage.,Efficacy
+630395f1,2024-12-15,Tablet X,Visible black speck inside ampoule.,Contamination
+00b9513a,2025-03-02,Injection Z,Dose seemed sub-potent.,Efficacy
+820440fa,2025-04-11,Injection Z,Product received above storage temperature range.,Temperature
+ec63038a,2025-03-07,Ointment C,Ineffective compared to prior lot.,Efficacy
+442fc270,2025-03-07,Vaccine A,Label shows out-of-spec condition.,Temperature
+d9603778,2024-12-18,Ointment C,"Liquid leaked from cap, contamination risk noted.",Packaging
+dd509927,2025-02-01,Injection Z,Patient experienced nausea post administration.,Adverse Reaction
+ec120776,2025-02-13,Tablet X,Label shows out-of-spec condition.,Temperature
+92a26746,2025-02-08,Injection Z,"Vial cracked upon opening, leakage observed.",Packaging
+01ebff18,2024-10-16,Tablet X,Product received above storage temperature range.,Temperature
+c85fa7f4,2024-07-04,Ointment C,Missing tamper-evident seal on multiple units.,Packaging
+c60c42f7,2025-01-05,Injection Z,Patient experienced nausea post administration.,Adverse Reaction
+4241d357,2025-04-05,Ointment C,Packaging seal broken on arrival.,Packaging
+b8574a63,2024-10-18,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+2003b30d,2025-05-11,Vaccine A,Ineffective compared to prior lot.,Efficacy
+78baecde,2024-08-16,Vaccine A,Vaccine arrived warm to touch.,Temperature
+9388896d,2025-02-06,Tablet X,"Outer carton damaged, inner contents intact.",Packaging
+b14cde5f,2025-05-31,Tablet X,Label shows out-of-spec condition.,Temperature
+aca5d37a,2024-12-07,Tablet X,Vaccine arrived warm to touch.,Temperature
+1b18b6cd,2025-02-13,Tablet X,Temperature logger flagged deviation.,Temperature
+5edc186c,2024-07-03,Injection Z,Ineffective compared to prior lot.,Efficacy
+d5dbe995,2024-11-12,Vaccine A,Unexpected allergic reaction occurred.,Adverse Reaction
+4b839b0e,2025-01-12,Injection Z,Product received above storage temperature range.,Temperature
+ee8b5a9f,2024-06-18,Ointment C,Patient fainted shortly after use.,Adverse Reaction
+d3e0c94f,2024-11-15,Ointment C,Unusual odor detected from bottle.,Contamination
+e690b6e1,2024-11-13,Vaccine A,Therapeutic effect not observed as expected.,Efficacy
+85882665,2025-05-11,Vaccine A,"Liquid leaked from cap, contamination risk noted.",Packaging
+9b2f44a6,2025-03-31,Ointment C,Tablet shows signs of mold.,Contamination
+75e07e55,2025-03-24,Tablet X,Unexpected allergic reaction occurred.,Adverse Reaction
+bfe3d018,2024-10-15,Injection Z,Ineffective compared to prior lot.,Efficacy
+c6d64f22,2025-02-28,Vaccine A,Cold chain break suspected during transit.,Temperature
+6c0132e7,2025-04-06,Injection Z,Swelling reported at injection site.,Adverse Reaction
+8a80de28,2025-05-02,Injection Z,"Vial cracked upon opening, leakage observed.",Packaging
+efae6cde,2024-12-02,Vaccine A,Cold chain break suspected during transit.,Temperature
+0adf4b86,2024-12-04,Vaccine A,"Vial cracked upon opening, leakage observed.",Packaging
+8800f727,2025-03-29,Tablet X,Packaging seal broken on arrival.,Packaging
+a39b214f,2024-08-21,Injection Z,Tablet shows signs of mold.,Contamination
+ceb8178c,2024-08-07,Ointment C,Unexpected allergic reaction occurred.,Adverse Reaction
+e7593c28,2025-05-17,Injection Z,Vaccine arrived warm to touch.,Temperature
+49d8ecc9,2024-11-21,Vaccine A,Patient experienced nausea post administration.,Adverse Reaction
+d669aefe,2024-08-24,Injection Z,"Vial cracked upon opening, leakage observed.",Packaging
+ee192bcb,2024-09-11,Tablet X,Cold chain break suspected during transit.,Temperature
+71e7257a,2025-04-16,Vaccine A,Visible black speck inside ampoule.,Contamination
+a90de77e,2024-06-07,Ointment C,Unexpected allergic reaction occurred.,Adverse Reaction
+c7caaadb,2025-05-12,Ointment C,Unexpected allergic reaction occurred.,Adverse Reaction
+8f03af47,2025-03-16,Tablet X,Therapeutic effect not observed as expected.,Efficacy
+8f882a63,2024-08-11,Tablet X,Swelling reported at injection site.,Adverse Reaction
+b97b205c,2025-01-15,Vaccine A,Visible black speck inside ampoule.,Contamination
+f9693833,2024-06-26,Vaccine A,Unusual odor detected from bottle.,Contamination
+5220e6f6,2024-07-03,Vaccine A,Rash developed after second dose.,Adverse Reaction
+42c1a471,2024-06-05,Tablet X,Therapeutic effect not observed as expected.,Efficacy
+d8869a6f,2024-11-27,Ointment C,Temperature logger flagged deviation.,Temperature
+8f62f37c,2024-11-22,Ointment C,Visible black speck inside ampoule.,Contamination
+ebb4589c,2024-07-07,Tablet X,Visible black speck inside ampoule.,Contamination
+14566bc5,2025-02-27,Ointment C,Vaccine arrived warm to touch.,Temperature
+198dc0c1,2025-03-31,Ointment C,"Liquid leaked from cap, contamination risk noted.",Packaging
+0bd353dd,2025-03-18,Ointment C,Visible black speck inside ampoule.,Contamination
+1f04218a,2025-04-02,Injection Z,Response time delayed significantly.,Efficacy
+8a1f1b19,2024-11-25,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+7d707d42,2024-11-07,Tablet X,Temperature logger flagged deviation.,Temperature
+157c6f70,2025-01-16,Vaccine A,Rash developed after second dose.,Adverse Reaction
+03b70060,2025-05-04,Tablet X,Vaccine arrived warm to touch.,Temperature
+ce63e99e,2025-02-10,Ointment C,Tablet shows signs of mold.,Contamination
+80b68dd6,2025-05-15,Ointment C,Therapeutic effect not observed as expected.,Efficacy
+80cb6f86,2024-12-14,Tablet X,Dose seemed sub-potent.,Efficacy
+8d0b89a9,2025-05-05,Ointment C,Foreign particle seen in vial.,Contamination
+5c0d20e4,2024-12-01,Ointment C,Visible black speck inside ampoule.,Contamination
+8126be51,2024-10-28,Vaccine A,Ineffective compared to prior lot.,Efficacy
+d0af78cc,2024-06-26,Vaccine A,Swelling reported at injection site.,Adverse Reaction
+a23713b8,2024-11-20,Tablet X,Missing tamper-evident seal on multiple units.,Packaging
+f1e88d34,2024-07-01,Vaccine A,"Vial cracked upon opening, leakage observed.",Packaging
+342c8141,2024-07-23,Injection Z,Therapeutic effect not observed as expected.,Efficacy
+d72d6a35,2024-06-16,Tablet X,Swelling reported at injection site.,Adverse Reaction
+573a2306,2024-09-22,Injection Z,"Liquid leaked from cap, contamination risk noted.",Packaging
+773c36cc,2025-01-07,Injection Z,Temperature logger flagged deviation.,Temperature
+6a84e040,2025-05-08,Injection Z,Unexpected allergic reaction occurred.,Adverse Reaction
+b271d62d,2025-02-08,Injection Z,Temperature logger flagged deviation.,Temperature
+6896962f,2025-03-16,Tablet X,Vaccine arrived warm to touch.,Temperature
+d54306ad,2025-04-04,Vaccine A,Tablet shows signs of mold.,Contamination
+14e20dd0,2024-12-11,Vaccine A,Unusual odor detected from bottle.,Contamination
+e067f62d,2025-03-22,Tablet X,Unclear sediment floating in solution.,Contamination
+88e421f1,2025-03-04,Tablet X,Product received above storage temperature range.,Temperature
+067ec973,2025-02-18,Tablet X,Response time delayed significantly.,Efficacy
+f3e0d521,2025-04-20,Vaccine A,Patient experienced nausea post administration.,Adverse Reaction
+ab6c070e,2025-05-17,Vaccine A,Vaccine arrived warm to touch.,Temperature
+8b3db640,2025-05-23,Ointment C,Cold chain break suspected during transit.,Temperature
+fe774505,2024-09-23,Ointment C,Label shows out-of-spec condition.,Temperature
+712e2594,2025-03-28,Tablet X,Temperature logger flagged deviation.,Temperature
+06ebb289,2024-09-27,Tablet X,Rash developed after second dose.,Adverse Reaction
+4ea65555,2024-09-09,Ointment C,Patient reported no improvement after dosage.,Efficacy
+3fa6209f,2024-08-13,Ointment C,Visible black speck inside ampoule.,Contamination
+fd8f1321,2025-05-20,Vaccine A,Response time delayed significantly.,Efficacy
+7f4b6a50,2024-09-01,Ointment C,"Liquid leaked from cap, contamination risk noted.",Packaging
+0466fc6d,2024-12-04,Injection Z,"Liquid leaked from cap, contamination risk noted.",Packaging
+5290a536,2024-10-30,Vaccine A,Patient experienced nausea post administration.,Adverse Reaction
+e4ec3b1d,2024-10-15,Injection Z,Label shows out-of-spec condition.,Temperature
+c26e0772,2024-09-25,Tablet X,Patient fainted shortly after use.,Adverse Reaction
